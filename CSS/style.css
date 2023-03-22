@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(248, 252, 250);
+}
+img{
+     width: 200px; /*ancho de la imagen */
+     height: 200px; /*alto de la imagen*/
+}
+tr:hover{
+  background-color: brown;
+}
